@@ -5,7 +5,7 @@
 #include "stm32f3xx_hal.h"
 
 
-//for LED sets
+//for LED sets for blinking
 #define LEDS1 (GPIO_PIN_8 | GPIO_PIN_10 | GPIO_PIN_12 | GPIO_PIN_14)
 #define LEDS2 (GPIO_PIN_9 | GPIO_PIN_11 | GPIO_PIN_13 | GPIO_PIN_15)
 
